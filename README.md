@@ -35,16 +35,16 @@ Once the repo is cloned to your local directory, right click on the index.js fil
 A big help for this project from the YouTube channel Assistian (https://www.youtube.com/c/TheMasterClass). The tutorial video helped me when I was stuck.
 
 ## To Contribute
-If you would like to contribute to this project please
+If you would like to contribute to this project please contact me at the email address below.
 
 ## Tests
-If tests will be done, how will they be done?
+No tests are necessary.
 
 ## GitHub
-Find my GitHub profile at github.com/Enter user name here
+Find my GitHub profile at github.com/Jaxpi
 
 ## Questions
-For additional questions please reach out to me at enter email address here
+For additional questions please reach out to me at -email address hidden-
 
 ## License
 Licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) license
