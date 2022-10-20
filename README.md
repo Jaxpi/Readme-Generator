@@ -1,7 +1,7 @@
 
-# nm
+# Readme Generator
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 - [Deployed Link](#deployed-link)
@@ -13,40 +13,40 @@
 - [To Contribute](#to-contribute)
 - [Tests](#tests)
 - [GitHub](#github)
-- [Email](#email)
+- [Questions](#questions)
 - [License](#license)
 
 ## Deployed Link
-nm
+There is no deployed link for this application - it can be run from your command line terminal.
 
 ## Screenshot
-nm
+<video src="./ReadmeGeneratorScreencastify.mp4" style="width:300px; height auto;">;
 
 ## Description
-nm
+This application allows users to respond to prompts in their command line terminal in order to generate the data to populate a readme file template. This reduces the time needed to create these files.
 
 ## Installation
-nm
+Copy the repo to your local directory and run with nodejs in your VS Code integrated terminal.
 
 ## Usage
-nm
+Once the repo is cloned to your local directory, right click on the index.js file and select "Open in Integrated Terminal." This opens the command line terminal. Type "node index" without quotations and press enter. Then simply respond to the prompts to populate the readme file data. Upon completion of the last prompt response you will have a readme file created.
 
 ## Contributors
-nm
+A big help for this project from the YouTube channel Assistian (https://www.youtube.com/c/TheMasterClass). The tutorial video helped me when I was stuck.
 
 ## To Contribute
-nm
+If you would like to contribute to this project please
 
 ## Tests
-nm
+If tests will be done, how will they be done?
 
 ## GitHub
-nm
+Find my GitHub profile at github.com/Enter user name here
 
-## Email
-nm
+## Questions
+For additional questions please reach out to me at enter email address here
 
 ## License
-Licensed under the [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) license
+Licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) license
     
     

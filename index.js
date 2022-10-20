@@ -1,9 +1,9 @@
-// TODO: Include packages needed for this application
+// Packages needed for this application
 const inquirer = require("inquirer");
 const MarkDown = require("./utils/ReadmeGen");
 const fs = require("fs");
 
-// TODO: Create an array of questions for user input
+// This is the array of questions for user input (type: input means the user will type a response, the name is what the response will be called, and the message is the prompt user will see)
 const questions = [
     {type: 'input',
         name: 'title',
@@ -47,9 +47,10 @@ const questions = [
         message: "What is your GitHub user name?",
     },
     {type: 'input',
-        name: 'email',
+        name: 'questions',
         message: "What is your email address?",
     },
+    //This part is a type: list and includes choices so the user can select from a list of options
     {type: 'list',
         name: 'license',
         message: "Choose a license for your app from the following: ",
@@ -57,7 +58,7 @@ const questions = [
     },
 ];
 
-// TODO: Create a function to write README file
+// This is the function to write a README file
 function runQuery() {
     return inquirer.prompt(questions)
     .then((answers) => {
@@ -77,6 +78,5 @@ function runQuery() {
     })
 }
 
-// TODO: Create a function to initialize app
-// Function call to initialize app
+// This is the function call to initialize the app
 runQuery()
