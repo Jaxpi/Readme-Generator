@@ -20,7 +20,7 @@
 There is no deployed link for this application - it can be run from your command line terminal.
 
 ## Screenshot
-<video src="./ReadmeGeneratorScreencastify.mp4" style="width:300px; height auto;">;
+<video src="./assets/ReadmeGeneratorScreencastify.mp4" style="width:300px; height auto;">;
 
 ## Description
 This application allows users to respond to prompts in their command line terminal in order to generate the data to populate a readme file template. This reduces the time needed to create these files.
